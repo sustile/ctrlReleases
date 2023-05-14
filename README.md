@@ -1,4 +1,5 @@
 CTRL
+
 Easy to use Remote Desktop Application
 Property of SUKI SOFTWARE SOLUTIONS PVT LTD
 
@@ -13,6 +14,7 @@ WHEREAS, Licensee desires to obtain a license to use the Software pursuant to th
 NOW, THEREFORE, in consideration of the mutual promises and covenants contained herein, the parties agree as follows:
 
 License Grant.
+
 (a) Subject to the terms and conditions of this Agreement, Licensor hereby grants to Licensee a non-exclusive, non-transferable, limited license to use the Software solely for Licensee’s internal business purposes.
 
 (b) Licensee shall use the Software only in accordance with any applicable documentation provided by Licensor and all applicable laws, rules, and regulations.
@@ -20,6 +22,7 @@ License Grant.
 (c) Licensee shall not sublicense, rent, lease, or otherwise transfer the Software or any rights therein.
 
 Ownership.
+
 (a) Licensor retains all right, title, and interest in and to the Software and all modifications, enhancements, and derivative works thereof, whether made by Licensor or Licensee.
 
 (b) Licensee acknowledges that the Software is proprietary to Licensor and that Licensor retains all intellectual property rights therein.
@@ -27,6 +30,7 @@ Ownership.
 (c) Licensee agrees not to reverse engineer, decompile, or disassemble the Software, except to the extent that such activity is expressly permitted by applicable law.
 
 Term and Termination.
+
 (a) This Agreement shall commence on the Effective Date and shall continue until terminated in accordance with this Section.
 
 (b) Either party may terminate this Agreement at any time upon written notice to the other party.
@@ -34,11 +38,13 @@ Term and Termination.
 (c) Upon termination of this Agreement for any reason, Licensee shall immediately cease using the Software and shall return to Licensor or destroy all copies of the Software and all related documentation.
 
 Confidentiality.
+
 (a) Licensee shall maintain the confidentiality of the Software and all related documentation and shall not disclose such information to any third party without the prior written consent of Licensor.
 
 (b) This obligation shall survive the termination of this Agreement.
 
 Warranties and Limitations of Liability.
+
 (a) Licensor warrants that the Software will operate substantially in accordance with the applicable documentation for a period of ninety (90) days from the date of delivery.
 
 (b) THE FOREGOING WARRANTY IS IN LIEU OF ALL OTHER WARRANTIES, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
